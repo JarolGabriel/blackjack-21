@@ -1,5 +1,7 @@
 # blackJack Vite
 
+`https://jarolgabriel.github.io/blackjack-21/`
+
 Pasos para ejecutar el proyecto:
 
 1. Clonar el repositorio
